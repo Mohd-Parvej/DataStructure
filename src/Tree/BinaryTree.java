@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * @uther Parej
+ * @uther Parvej
  */
 
 public class BinaryTree {
